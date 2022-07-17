@@ -1,6 +1,7 @@
 # Three.js Starter
 
-Project running 
+Animated particles background
+- Created using three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
