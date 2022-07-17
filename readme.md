@@ -1,5 +1,5 @@
 # Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Space dimension with particles
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
