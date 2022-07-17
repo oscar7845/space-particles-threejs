@@ -1,8 +1,6 @@
 # Three.js Starter
 
-Project running at:
-  - http://192.168.10.127:8080
-
+Project running 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
