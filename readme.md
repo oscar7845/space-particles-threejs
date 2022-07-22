@@ -1,8 +1,10 @@
-# Three.js Starter
-
-Animated particles background
+# Animated particles background
 - Created using three.js
 
+[PROJECT GIF](https://i.ibb.co/yYFnXSR/particles.gif)
+
+
+# Three.js Starter
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
